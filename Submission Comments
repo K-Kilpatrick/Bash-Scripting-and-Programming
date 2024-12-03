@@ -1,0 +1,16 @@
+Greetings, Kelly!
+
+Congratulations on your excellent Module 6 Challenge! You’ve demonstrated your hacking skills, remotely accessed a victim’s machine, maintained access via a back door and cracked sensitive passwords!
+
+You’ve done quite well with shadowing your victim. You’ve executed the commands to create a secret system user with administrative privileges, but no $HOME. You’ve assigned a password, UID, and GID to “sysd”. You've granted "sudo" access to this user. You've done well with this deliverable!
+
+Also, you’ve done well in writing and testing your configuration update, Kelly. You’ve added the port directive to the “sshd_config” file.
+
+Next, you've restarted sshd, exited the root account, and you've stealthily logged back into the target machine! Well done in this regard!
+
+In the fourth step, you've somewhat demonstrated the steps to crack passwords. You've made a good effort in this regard.
+
+Kelly, this has been an amazing opportunity for understanding how to establish a foothold and maintain access; please keep up the outstanding work and this smooth flow you’ve established!
+
+RAE
+Central Grader, Feb 11 at 1:18pm
